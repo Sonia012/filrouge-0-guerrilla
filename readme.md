@@ -1,6 +1,6 @@
 # Description
 
-One month into our training at BeCode.org, we were assigned a random website. The purpose was to improve that website.  Our time frame for this exercise was 1 day: we received the intructions in the morning and had to deliver by 5pm that same day.  Below, you'll find the project instructions we received from our BeCode coach.  Original website that I had to "immprove": [fredfinestmarket.be](http://fredfinestmarket.be/). My new version of this website: [](https://sonia012.github.io/filrouge-0-guerrilla/)
+One month into our training at BeCode.org, we were assigned a random website. The purpose was to improve that website.  Our time frame for this exercise was 1 day: we received the intructions in the morning and had to deliver by 5pm that same day.  Below, you'll find the project instructions we received from our BeCode coach.  Original website that I had to "improve": [fredfinestmarket.be](http://fredfinestmarket.be/). My new version of this website: [new webpage](https://sonia012.github.io/filrouge-0-guerrilla/)
 
 
 ### Your Mission
